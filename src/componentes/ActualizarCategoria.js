@@ -76,7 +76,7 @@ const ActualizarCategoria = () => {
             </div>
             <div className='mt-10 flex justify-center'>
             <form 
-            className='my-10 bg-white shadow-orange-500 rounded-lg p-10'
+            className='my-10 bg-white shadow-orange-550 rounded-lg p-10'
             onSubmit={onSubmit} 
             >
                 <div className='my-5'>
